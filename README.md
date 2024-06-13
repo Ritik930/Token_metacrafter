@@ -1,6 +1,4 @@
-Sure, here's the code for the `README.md` file formatted for GitHub:
 
-```markdown
 # HelloWorld1 Smart Contract
 
 This repository contains a simple Ethereum smart contract written in Solidity.
